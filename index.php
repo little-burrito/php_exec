@@ -1,5 +1,5 @@
 <pre>
-<?
+<?php
     echo exec( 'whoami' );
     echo "\n";
     echo exec( 'id' );
