@@ -1,0 +1,8 @@
+total 24
+drwxrwxr-x 3 root     site_exec 4096 Jun  5 22:52 .
+drwxr-xr-x 5 root     root      4096 Jun  5 21:31 ..
+drwxrwxr-x 8 root     site_exec 4096 Jun  5 22:46 .git
+-rwxrwxr-x 1 root     site_exec   11 Jun  5 21:31 README.md
+-rw-rw-r-- 1 anton    anton      534 Jun  6 00:21 index.php
+-rw-rw-r-- 1 anton    anton       34 Jun  5 22:51 test.py
+-rw-r--r-- 1 www-data www-data     0 Jun  6 00:21 test.txt

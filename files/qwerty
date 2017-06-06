@@ -1,0 +1,130 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+Full harvest..
+[-] Searching in Google..
+	Searching 0 results...
+	Searching 100 results...
+	Searching 200 results...
+	Searching 300 results...
+	Searching 400 results...
+	Searching 500 results...
+[-] Searching in PGP Key server..
+408
+Request Timeout
+[-] Searching in Bing..
+	Searching 50 results...
+	Searching 100 results...
+	Searching 150 results...
+	Searching 200 results...
+	Searching 250 results...
+	Searching 300 results...
+	Searching 350 results...
+	Searching 400 results...
+	Searching 450 results...
+	Searching 500 results...
+[-] Searching in Exalead..
+	Searching 50 results...
+	Searching 100 results...
+	Searching 150 results...
+	Searching 200 results...
+	Searching 250 results...
+	Searching 300 results...
+	Searching 350 results...
+	Searching 400 results...
+	Searching 450 results...
+	Searching 500 results...
+	Searching 550 results...
+
+
+[+] Emails found:
+------------------
+'qwerty@qwerty.qwerty
+-@qwerty
+007a01c706a5$4bd306c0$0a01a8c0@qwerty
+12345,etc@qwerty
+1234567890@qwerty
+245327803@qwerty
+330216298@qwerty
+419018973@qwerty
+452725678@qwerty
+474376332@qwerty
+494525829@qwerty
+510378375@qwerty
+657799404@qwerty
+849974xxxxxx@qwerty
+Babux@qwerty
+Bruno@qwerty
+Dev@qwerty
+Doni@qwerty
+Ninh@qwerty
+XY@qwerty
+a@qwerty
+abuse@qwerty
+admin@qwerty
+ainsworth@qwerty
+anthony.dickens@qwerty
+archie@qwerty
+asdf@qwerty
+asdfg@qwerty
+autocrasher@qwerty
+bph@qwerty
+coccolinohug@qwerty
+correo@qwerty
+denuncia@qwerty
+enquiry@qwerty
+fazerevil@qwerty
+ghj@qwerty
+help@qwerty
+ih@qwerty
+info@qwerty
+informes@qwerty
+ivan@qwerty
+jills@qwerty
+jn@qwerty
+john.doe@qwerty
+junior@qwerty
+kevin@qwerty
+killermike@qwerty
+laspalmas@qwerty
+m.sisina@qwerty
+myynti@qwerty
+newsletters@qwerty
+opr800uhvzklbvpo@qwerty
+ordersupport@qwerty
+page-07019...@qwerty
+page-0701962007020001@qwerty
+password@qwerty
+postmaster@qwerty
+privateryan@qwerty
+qwe...@qwerty
+qwerty@qwerty
+root@qwerty
+sisina_m@qwerty
+sym@qwerty
+tenerife@qwerty
+theFixx-request@qwerty
+wert@qwerty
+xxx.yyy@qwerty
+z1@qwerty
+
+[+] Hosts found in search engines:
+------------------------------------
+[-] Resolving hostnames IPs... 
+[+] Virtual hosts:
+==================
+[+] Shodan Database search:
+[+] Shodan results:
+===================
