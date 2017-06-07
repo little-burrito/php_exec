@@ -44,7 +44,7 @@ body, input, select, option {
     if ( $_POST['newDomain'] != "" ) {
         echo 'Generating file...';
         flush();
-        echo passthru( '/opt/theharvester/theHarvester.py -d ' . $_POST['newDomain'] . ' -b all -l 500 -h > ./files/' . $_POST['newDomain'] );
+        echo passthru( '/opt/theharvester/theHarvester.py -d ' . $_POST['newDomain'] . ' -b all -l 500 > ./files/' . $_POST['newDomain'] );
         echo "\n".'Done';
         $_POST['generatedDomain'] = $_POST['newDomain'];
         echo "\n\n";
